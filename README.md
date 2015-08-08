@@ -1,5 +1,8 @@
 #[Font Awesome v4.4.0](http://fontawesome.io)
+###Added backwards compatibility with Font Awesome 3.2.1
+
 ###The iconic font and CSS framework
+
 
 Font Awesome is a full suite of 585 pictographic icons for easy scalable vector graphics on websites,
 created and maintained by [Dave Gandy](http://twitter.com/davegandy).
